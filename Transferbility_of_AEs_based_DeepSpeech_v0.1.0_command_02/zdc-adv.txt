@@ -1,0 +1,25 @@
+deepspeech-0.2.0
+audio file:  zdc-adv-1220.wav
+top index:  0 	, text:  how is the war 
+top index:  1 	, text:  how is the weather 
+top index:  2 	, text:  how is the we 
+top index:  3 	, text:  how is he we 
+top index:  4 	, text:  how is the wet 
+top index:  5 	, text:  how has the we 
+top index:  6 	, text:  how is there we 
+top index:  7 	, text:  how is the 
+top index:  8 	, text:  how has he we 
+top index:  9 	, text:  how is the wea 
+
+deepspeech-0.3.0
+audio file:  zdc-adv-1220.wav
+top index:  1 	, text:  how is the war 
+top index:  2 	, text:  how is the weather 
+top index:  3 	, text:  how is the we 
+top index:  4 	, text:  how is he we 
+top index:  5 	, text:  how is the wet 
+top index:  6 	, text:  how has the we 
+top index:  7 	, text:  how is the 
+top index:  8 	, text:  how is there we 
+top index:  9 	, text:  how has he we 
+top index:  10 	, text:  how is the wea

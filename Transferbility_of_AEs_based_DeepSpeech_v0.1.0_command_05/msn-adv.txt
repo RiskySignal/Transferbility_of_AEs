@@ -1,0 +1,25 @@
+deepspeech-0.2.0
+audio file:  msn-adv-300.wav
+top index:  0 	, text:  the cloud of the 
+top index:  1 	, text:  the clouds of the 
+top index:  2 	, text:  the clou of the 
+top index:  3 	, text:  the cloud of the right 
+top index:  4 	, text:  the cloud of the i 
+top index:  5 	, text:  the cloud of the rig 
+top index:  6 	, text:  the cloud of the r 
+top index:  7 	, text:  the cloud of their 
+top index:  8 	, text:  the clown of the 
+top index:  9 	, text:  the a cloud of the 
+
+deepspeech-0.3.0
+audio file:  msn-adv-300.wav
+top index:  1 	, text:  the cloud of the 
+top index:  2 	, text:  the clouds of the 
+top index:  3 	, text:  the clou of the 
+top index:  4 	, text:  the cloud of the right 
+top index:  5 	, text:  the cloud of the i 
+top index:  6 	, text:  the cloud of the rig 
+top index:  7 	, text:  the cloud of their 
+top index:  8 	, text:  the cloud of the r 
+top index:  9 	, text:  the clown of the 
+top index:  10 	, text:  the clod of the 

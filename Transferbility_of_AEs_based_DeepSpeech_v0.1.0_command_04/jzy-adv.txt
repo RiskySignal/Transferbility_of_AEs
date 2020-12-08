@@ -1,0 +1,25 @@
+deepspeech-0.2.0
+audio file:  jzy-adv-350.wav
+top index:  0 	, text:  when the war was ither
+top index:  1 	, text:  when the war was the 
+top index:  2 	, text:  when the war was i the 
+top index:  3 	, text:  when the well was i the 
+top index:  4 	, text:  when the will was the 
+top index:  5 	, text:  when the will was ither
+top index:  6 	, text:  when the will was in the 
+top index:  7 	, text:  when the war was in the 
+top index:  8 	, text:  when the well was in the 
+top index:  9 	, text:  when the word was i the 
+
+deepspeech folder: deepspeech-0.3.0
+audio file:  jzy-adv-350.wav
+top index:  1 	, text:  when the war was ither
+top index:  2 	, text:  when the war was the 
+top index:  3 	, text:  when the war was i the 
+top index:  4 	, text:  when the will was the 
+top index:  5 	, text:  when the well was i the 
+top index:  6 	, text:  when the will was ither
+top index:  7 	, text:  when the will was in the 
+top index:  8 	, text:  when the war was in the 
+top index:  9 	, text:  when the well was the 
+top index:  10 	, text:  when they were at the 

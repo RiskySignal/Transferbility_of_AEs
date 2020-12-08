@@ -1,0 +1,25 @@
+deepspeech-0.2.0
+audio file:  zet-adv-1000.wav
+top index:  0 	, text:  they open the front door 
+top index:  1 	, text:  they opened the front door 
+top index:  2 	, text:  they open the home front door 
+top index:  3 	, text:  they open the hole front door 
+top index:  4 	, text:  they open the hot front door 
+top index:  5 	, text:  they open the howe front door 
+top index:  6 	, text:  they open the or front door 
+top index:  7 	, text:  they open the out front door 
+top index:  8 	, text:  they open the our front door 
+top index:  9 	, text:  they open the of front door 
+
+deepspeech-0.3.0
+audio file:  zet-adv-1000.wav
+top index:  1 	, text:  they opened the front door 
+top index:  2 	, text:  they open the front door 
+top index:  3 	, text:  they open the home front door 
+top index:  4 	, text:  they open the hole front door 
+top index:  5 	, text:  they open the hot front door 
+top index:  6 	, text:  they open the howe front door 
+top index:  7 	, text:  they open the or front door 
+top index:  8 	, text:  they open the out front door 
+top index:  9 	, text:  they open the our front door 
+top index:  10 	, text:  they open the of front door 

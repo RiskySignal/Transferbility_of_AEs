@@ -1,0 +1,25 @@
+deepspeech-0.2.0
+audio file:  wye-adv-570.wav
+top index:  0 	, text:  and me where is my car 
+top index:  1 	, text:  i i where is my car 
+top index:  2 	, text:  i where is my car 
+top index:  3 	, text:  me where is my car 
+top index:  4 	, text:  my where is my car 
+top index:  5 	, text:  and i where is my car 
+top index:  6 	, text:  an me where is my car 
+top index:  7 	, text:  in me where is my car 
+top index:  8 	, text:  we were as my car 
+top index:  9 	, text:  a i where is my car 
+
+deepspeech-0.3.0
+audio file:  wye-adv-570.wav
+top index:  1 	, text:  and me where is my car 
+top index:  2 	, text:  i where is my car 
+top index:  3 	, text:  me where is my car 
+top index:  4 	, text:  i i where is my car 
+top index:  5 	, text:  my where is my car 
+top index:  6 	, text:  an me where is my car 
+top index:  7 	, text:  and i where is my car 
+top index:  8 	, text:  where is my car 
+top index:  9 	, text:  we were as my car 
+top index:  10 	, text:  in me where is my car 
